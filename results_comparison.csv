@@ -1,0 +1,11 @@
+Scenario ID,Scenario Name,Description,Is Dynamic,Agent Name,Steps Taken,Survivors Rescued,Resources Collected,Energy Used,Computation Time (s)
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,25,2,2,25,0.0007407665252685547
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,25,2,2,25,0.00044417381286621094
+Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,1,20,0.0002942085266113281
+Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.00017714500427246094
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,25,1,0,25,0.0005660057067871094
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,25,1,0,25,0.00033593177795410156
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,25,4,0,25,0.002566099166870117
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,25,4,0,25,0.0012249946594238281
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,25,0,0,25,0.004278898239135742
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,25,0,0,25,0.0034160614013671875
