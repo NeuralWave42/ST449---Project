@@ -1,151 +1,151 @@
 Scenario ID,Scenario Name,Description,Is Dynamic,Agent Name,Steps Taken,Survivors Rescued,Resources Collected,Energy Used,Computation Time (s),Trial
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,20,2,1,20,0.0030312538146972656,1
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,20,2,1,20,0.0029761791229248047,2
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,20,2,1,20,0.0032999515533447266,3
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,20,2,1,20,0.002749919891357422,4
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,20,2,1,20,0.0023543834686279297,5
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,20,2,1,20,0.0008089542388916016,1
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,20,2,1,20,0.0006918907165527344,2
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,20,2,1,20,0.0006611347198486328,3
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,20,2,1,20,0.0006449222564697266,4
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,20,2,1,20,0.0006361007690429688,5
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,QLearningAgent,20,1,0,20,0.0002307891845703125,1
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,QLearningAgent,20,1,0,20,0.00016880035400390625,2
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,QLearningAgent,20,1,0,20,0.0001659393310546875,3
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,QLearningAgent,20,1,0,20,0.0001728534698486328,4
-Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,QLearningAgent,20,1,0,20,0.00019311904907226562,5
-Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,0,20,0.001068115234375,1
-Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,0,20,0.0010380744934082031,2
-Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,0,20,0.0010333061218261719,3
-Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,0,20,0.0010440349578857422,4
-Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,0,20,0.0010390281677246094,5
-Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.0006511211395263672,1
-Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.0006060600280761719,2
-Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.0005838871002197266,3
-Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.0005843639373779297,4
-Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.0005891323089599609,5
-Scenario_2,Obstacle Maze,A more complex layout,False,QLearningAgent,20,1,0,20,0.00015807151794433594,1
-Scenario_2,Obstacle Maze,A more complex layout,False,QLearningAgent,20,1,0,20,0.00014591217041015625,2
-Scenario_2,Obstacle Maze,A more complex layout,False,QLearningAgent,20,1,0,20,0.00014591217041015625,3
-Scenario_2,Obstacle Maze,A more complex layout,False,QLearningAgent,20,1,0,20,0.00015091896057128906,4
-Scenario_2,Obstacle Maze,A more complex layout,False,QLearningAgent,20,1,0,20,0.0001461505889892578,5
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,20,2,1,20,0.0014400482177734375,1
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,20,2,1,20,0.0013852119445800781,2
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,20,2,1,20,0.001318216323852539,3
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,20,2,1,20,0.0013191699981689453,4
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,20,2,1,20,0.0013251304626464844,5
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,20,1,2,20,0.0005450248718261719,1
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,20,1,2,20,0.0005171298980712891,2
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,20,1,2,20,0.0005078315734863281,3
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,20,1,2,20,0.0004930496215820312,4
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,20,1,2,20,0.00048804283142089844,5
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,QLearningAgent,20,1,0,20,0.0002181529998779297,1
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,QLearningAgent,20,1,0,20,0.00025200843811035156,2
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,QLearningAgent,20,1,0,20,0.0002129077911376953,3
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,QLearningAgent,20,1,0,20,0.00021505355834960938,4
-Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,QLearningAgent,20,1,0,20,0.0002589225769042969,5
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,20,2,0,20,0.009835958480834961,1
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,20,2,0,20,0.009041070938110352,2
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,20,2,0,20,0.00913095474243164,3
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,20,2,0,20,0.008341073989868164,4
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,20,2,0,20,0.008028030395507812,5
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,20,1,3,20,0.0005476474761962891,1
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,20,1,3,20,0.0005667209625244141,2
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,20,1,3,20,0.0005660057067871094,3
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,20,1,3,20,0.0005550384521484375,4
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,20,1,3,20,0.0005247592926025391,5
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,QLearningAgent,20,0,2,8,0.00012421607971191406,1
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,QLearningAgent,20,0,2,8,8.702278137207031e-05,2
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,QLearningAgent,20,0,2,8,8.487701416015625e-05,3
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,QLearningAgent,20,0,2,8,8.392333984375e-05,4
-Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,QLearningAgent,20,0,2,8,8.511543273925781e-05,5
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,20,2,0,20,0.007197856903076172,1
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,20,2,0,20,0.006843090057373047,2
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,20,2,0,20,0.006930828094482422,3
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,20,2,0,20,0.006867885589599609,4
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,20,2,0,20,0.00683283805847168,5
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,20,1,2,20,0.0006098747253417969,1
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,20,1,2,20,0.0005791187286376953,2
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,20,1,2,20,0.0005929470062255859,3
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,20,1,2,20,0.000576019287109375,4
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,20,1,2,20,0.0005748271942138672,5
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,QLearningAgent,20,1,2,8,0.00015687942504882812,1
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,QLearningAgent,20,1,2,8,0.00012874603271484375,2
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,QLearningAgent,20,1,2,8,0.0001289844512939453,3
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,QLearningAgent,20,1,2,8,0.000125885009765625,4
-Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,QLearningAgent,20,1,2,8,0.000125885009765625,5
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,DijkstraAgent,20,2,0,20,0.0017552375793457031,1
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,DijkstraAgent,20,2,0,20,0.0017197132110595703,2
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,DijkstraAgent,20,2,0,20,0.0017120838165283203,3
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,DijkstraAgent,20,2,0,20,0.00168609619140625,4
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,DijkstraAgent,20,2,0,20,0.0016832351684570312,5
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,AStarAgent,20,2,2,20,0.0004138946533203125,1
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,AStarAgent,20,2,2,20,0.0004937648773193359,2
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,AStarAgent,20,2,2,20,0.00042510032653808594,3
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,AStarAgent,20,2,2,20,0.00043201446533203125,4
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,AStarAgent,20,2,2,20,0.0004048347473144531,5
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,QLearningAgent,20,0,0,20,0.0001010894775390625,1
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,QLearningAgent,20,0,0,20,8.511543273925781e-05,2
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,QLearningAgent,20,0,0,20,8.296966552734375e-05,3
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,QLearningAgent,20,0,0,20,8.296966552734375e-05,4
-Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,QLearningAgent,20,0,0,20,8.273124694824219e-05,5
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,DijkstraAgent,20,3,0,20,0.003133058547973633,1
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,DijkstraAgent,20,3,0,20,0.003136873245239258,2
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,DijkstraAgent,20,3,0,20,0.003290891647338867,3
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,DijkstraAgent,20,3,0,20,0.003253936767578125,4
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,DijkstraAgent,20,3,0,20,0.0032777786254882812,5
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,AStarAgent,20,3,4,20,0.00043392181396484375,1
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,AStarAgent,20,3,4,20,0.0004191398620605469,2
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,AStarAgent,20,3,4,20,0.00041866302490234375,3
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,AStarAgent,20,3,4,20,0.0004200935363769531,4
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,AStarAgent,20,3,4,20,0.00041222572326660156,5
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,QLearningAgent,20,0,0,20,9.489059448242188e-05,1
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,QLearningAgent,20,0,0,20,9.799003601074219e-05,2
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,QLearningAgent,20,0,0,20,8.797645568847656e-05,3
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,QLearningAgent,20,0,0,20,8.296966552734375e-05,4
-Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,QLearningAgent,20,0,0,20,8.20159912109375e-05,5
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,DijkstraAgent,20,5,0,20,0.0065212249755859375,1
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,DijkstraAgent,20,5,0,20,0.0061419010162353516,2
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,DijkstraAgent,20,5,0,20,0.006373167037963867,3
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,DijkstraAgent,20,5,0,20,0.006556987762451172,4
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,DijkstraAgent,20,5,0,20,0.006526947021484375,5
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,AStarAgent,12,2,2,12,0.0005841255187988281,1
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,AStarAgent,12,2,2,12,0.0005750656127929688,2
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,AStarAgent,12,2,2,12,0.0005638599395751953,3
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,AStarAgent,12,2,2,12,0.0005612373352050781,4
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,AStarAgent,12,2,2,12,0.0005490779876708984,5
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,QLearningAgent,20,0,0,20,0.00014901161193847656,1
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,QLearningAgent,20,0,0,20,0.0001289844512939453,2
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,QLearningAgent,20,0,0,20,0.00012922286987304688,3
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,QLearningAgent,20,0,0,20,0.00012803077697753906,4
-Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,QLearningAgent,20,0,0,20,0.0001270771026611328,5
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,DijkstraAgent,20,3,0,20,0.010803937911987305,1
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,DijkstraAgent,20,3,0,20,0.010719060897827148,2
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,DijkstraAgent,20,3,0,20,0.010732889175415039,3
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,DijkstraAgent,20,3,0,20,0.010303974151611328,4
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,DijkstraAgent,20,3,0,20,0.01009821891784668,5
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,AStarAgent,20,4,2,20,0.0007801055908203125,1
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,AStarAgent,20,4,2,20,0.0007359981536865234,2
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,AStarAgent,20,4,2,20,0.0007171630859375,3
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,AStarAgent,20,4,2,20,0.0007200241088867188,4
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,AStarAgent,20,4,2,20,0.0007162094116210938,5
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,QLearningAgent,20,0,2,8,0.00014209747314453125,1
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,QLearningAgent,20,0,2,8,0.00012803077697753906,2
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,QLearningAgent,20,0,2,8,0.00012803077697753906,3
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,QLearningAgent,20,0,2,8,0.000125885009765625,4
-Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,QLearningAgent,20,0,2,8,0.000125885009765625,5
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,DijkstraAgent,20,3,1,20,0.0025589466094970703,1
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,DijkstraAgent,20,3,1,20,0.0026330947875976562,2
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,DijkstraAgent,20,3,1,20,0.0025658607482910156,3
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,DijkstraAgent,20,3,1,20,0.002557039260864258,4
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,DijkstraAgent,20,3,1,20,0.002686023712158203,5
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,AStarAgent,20,0,7,20,0.0003399848937988281,1
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,AStarAgent,20,0,7,20,0.0003273487091064453,2
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,AStarAgent,20,0,7,20,0.0003218650817871094,3
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,AStarAgent,20,0,7,20,0.0003209114074707031,4
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,AStarAgent,20,0,7,20,0.00032210350036621094,5
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,QLearningAgent,20,1,0,20,0.000141143798828125,1
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,QLearningAgent,20,1,0,20,0.00012111663818359375,2
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,QLearningAgent,20,1,0,20,0.00013518333435058594,3
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,QLearningAgent,20,1,0,20,0.00014281272888183594,4
-Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,QLearningAgent,20,1,0,20,0.00021982192993164062,5
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,20,2,1,20,0.003950834274291992,1
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,20,2,1,20,0.002849102020263672,2
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,20,2,1,20,0.0030608177185058594,3
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,20,2,1,20,0.002440214157104492,4
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,DijkstraAgent,20,2,1,20,0.003131866455078125,5
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,20,2,1,20,0.0011968612670898438,1
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,20,2,1,20,0.0006647109985351562,2
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,20,2,1,20,0.0006768703460693359,3
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,20,2,1,20,0.0006489753723144531,4
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,AStarAgent,20,2,1,20,0.0006310939788818359,5
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,QLearningAgent,20,1,0,20,0.0003008842468261719,1
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,QLearningAgent,20,1,0,20,0.00019621849060058594,2
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,QLearningAgent,20,1,0,20,0.0002257823944091797,3
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,QLearningAgent,20,1,0,20,0.00019288063049316406,4
+Scenario_1,Simple Layout,"Minimal obstacles, static environment",False,QLearningAgent,20,1,0,20,0.00018405914306640625,5
+Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,0,20,0.0012481212615966797,1
+Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,0,20,0.0013890266418457031,2
+Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,0,20,0.0010571479797363281,3
+Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,0,20,0.00101470947265625,4
+Scenario_2,Obstacle Maze,A more complex layout,False,DijkstraAgent,20,2,0,20,0.0014107227325439453,5
+Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.0007078647613525391,1
+Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.0006117820739746094,2
+Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.0006148815155029297,3
+Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.0005779266357421875,4
+Scenario_2,Obstacle Maze,A more complex layout,False,AStarAgent,20,2,1,20,0.0005869865417480469,5
+Scenario_2,Obstacle Maze,A more complex layout,False,QLearningAgent,20,1,0,20,0.00017905235290527344,1
+Scenario_2,Obstacle Maze,A more complex layout,False,QLearningAgent,20,1,0,20,0.00014710426330566406,2
+Scenario_2,Obstacle Maze,A more complex layout,False,QLearningAgent,20,1,0,20,0.00014400482177734375,3
+Scenario_2,Obstacle Maze,A more complex layout,False,QLearningAgent,20,1,0,20,0.00014519691467285156,4
+Scenario_2,Obstacle Maze,A more complex layout,False,QLearningAgent,20,1,0,20,0.000141143798828125,5
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,20,2,1,20,0.001499176025390625,1
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,20,2,1,20,0.0014531612396240234,2
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,20,2,1,20,0.0017480850219726562,3
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,20,2,1,20,0.001371145248413086,4
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,DijkstraAgent,20,2,1,20,0.0013051033020019531,5
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,20,1,2,20,0.0005328655242919922,1
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,20,1,2,20,0.0005366802215576172,2
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,20,1,2,20,0.0005266666412353516,3
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,20,1,2,20,0.0004868507385253906,4
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,AStarAgent,20,1,2,20,0.0008478164672851562,5
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,QLearningAgent,20,1,0,20,0.0003008842468261719,1
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,QLearningAgent,20,1,0,20,0.00022482872009277344,2
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,QLearningAgent,20,1,0,20,0.00020503997802734375,3
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,QLearningAgent,20,1,0,20,0.0002751350402832031,4
+Scenario_3,Dynamic Mixed Layout,Dynamic environment with obstacles and survivors moving,True,QLearningAgent,20,1,0,20,0.0002911090850830078,5
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,20,2,0,20,0.00997304916381836,1
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,20,2,0,20,0.009182214736938477,2
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,20,2,0,20,0.008848190307617188,3
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,20,2,0,20,0.008498191833496094,4
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,DijkstraAgent,20,2,0,20,0.008121967315673828,5
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,20,1,3,20,0.0005631446838378906,1
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,20,1,3,20,0.0005671977996826172,2
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,20,1,3,20,0.0006659030914306641,3
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,20,1,3,20,0.0006799697875976562,4
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,AStarAgent,20,1,3,20,0.0005981922149658203,5
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,QLearningAgent,20,0,0,20,0.00011992454528808594,1
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,QLearningAgent,20,0,0,20,8.20159912109375e-05,2
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,QLearningAgent,20,0,0,20,8.130073547363281e-05,3
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,QLearningAgent,20,0,0,20,8.082389831542969e-05,4
+Scenario_4,Large 12x12 Static,"A bigger static scenario with more obstacles, survivors, resources",False,QLearningAgent,20,0,0,20,7.891654968261719e-05,5
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,20,2,0,20,0.0072612762451171875,1
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,20,2,0,20,0.007523059844970703,2
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,20,2,0,20,0.007308006286621094,3
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,20,2,0,20,0.007224082946777344,4
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,DijkstraAgent,20,2,0,20,0.007496833801269531,5
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,20,1,2,20,0.0006518363952636719,1
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,20,1,2,20,0.0006158351898193359,2
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,20,1,2,20,0.0006120204925537109,3
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,20,1,2,20,0.0006091594696044922,4
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,AStarAgent,20,1,2,20,0.0006117820739746094,5
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,QLearningAgent,20,0,0,20,0.00017380714416503906,1
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,QLearningAgent,20,0,0,20,0.0001289844512939453,2
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,QLearningAgent,20,0,0,20,0.0001308917999267578,3
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,QLearningAgent,20,0,0,20,0.00012803077697753906,4
+Scenario_5,Large 12x12 Dynamic,A bigger dynamic scenario for differences between A* and Dijkstra,True,QLearningAgent,20,0,0,20,0.0001270771026611328,5
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,DijkstraAgent,20,2,0,20,0.0018260478973388672,1
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,DijkstraAgent,20,2,0,20,0.0019998550415039062,2
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,DijkstraAgent,20,2,0,20,0.0018742084503173828,3
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,DijkstraAgent,20,2,0,20,0.001817941665649414,4
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,DijkstraAgent,20,2,0,20,0.0018210411071777344,5
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,AStarAgent,20,2,2,20,0.0004611015319824219,1
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,AStarAgent,20,2,2,20,0.0004391670227050781,2
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,AStarAgent,20,2,2,20,0.00045490264892578125,3
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,AStarAgent,20,2,2,20,0.00044798851013183594,4
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,AStarAgent,20,2,2,20,0.000431060791015625,5
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,QLearningAgent,20,0,1,15,0.0001068115234375,1
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,QLearningAgent,20,0,1,15,8.702278137207031e-05,2
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,QLearningAgent,20,0,1,15,8.487701416015625e-05,3
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,QLearningAgent,20,0,1,15,8.511543273925781e-05,4
+Scenario_6,10x10 Dense Obstacles,"10x10 with many obstacles, multiple survivors/resources, static",False,QLearningAgent,20,0,1,15,8.606910705566406e-05,5
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,DijkstraAgent,20,3,0,20,0.003512144088745117,1
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,DijkstraAgent,20,3,0,20,0.0033369064331054688,2
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,DijkstraAgent,20,3,0,20,0.0032958984375,3
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,DijkstraAgent,20,3,0,20,0.0033507347106933594,4
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,DijkstraAgent,20,3,0,20,0.003412961959838867,5
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,AStarAgent,20,3,4,20,0.0004260540008544922,1
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,AStarAgent,20,3,4,20,0.00041604042053222656,2
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,AStarAgent,20,3,4,20,0.00040984153747558594,3
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,AStarAgent,20,3,4,20,0.00040912628173828125,4
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,AStarAgent,20,3,4,20,0.0004086494445800781,5
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,QLearningAgent,20,0,1,15,0.000102996826171875,1
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,QLearningAgent,20,0,1,15,8.606910705566406e-05,2
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,QLearningAgent,20,0,1,15,8.535385131835938e-05,3
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,QLearningAgent,20,0,1,15,8.511543273925781e-05,4
+Scenario_7,10x10 Multi Resource & Survivors,10x10 static with multiple resources & survivors,False,QLearningAgent,20,0,1,15,8.58306884765625e-05,5
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,DijkstraAgent,20,5,0,20,0.006908893585205078,1
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,DijkstraAgent,20,5,0,20,0.006596088409423828,2
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,DijkstraAgent,20,5,0,20,0.006842851638793945,3
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,DijkstraAgent,20,5,0,20,0.006552934646606445,4
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,DijkstraAgent,20,5,0,20,0.006781816482543945,5
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,AStarAgent,12,2,2,12,0.0006029605865478516,1
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,AStarAgent,12,2,2,12,0.0005590915679931641,2
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,AStarAgent,12,2,2,12,0.0005540847778320312,3
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,AStarAgent,12,2,2,12,0.0005578994750976562,4
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,AStarAgent,12,2,2,12,0.0005550384521484375,5
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,QLearningAgent,20,1,1,15,0.00015592575073242188,1
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,QLearningAgent,20,1,1,15,0.00013303756713867188,2
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,QLearningAgent,20,1,1,15,0.0001289844512939453,3
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,QLearningAgent,20,1,1,15,0.00012302398681640625,4
+Scenario_8,"10x10 Dynamic, Many Survivors","10x10 dynamic with multiple survivors/resources, frequent movement",True,QLearningAgent,20,1,1,15,0.00012302398681640625,5
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,DijkstraAgent,20,3,0,20,0.011014223098754883,1
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,DijkstraAgent,20,3,0,20,0.010782957077026367,2
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,DijkstraAgent,20,3,0,20,0.011124134063720703,3
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,DijkstraAgent,20,3,0,20,0.011055231094360352,4
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,DijkstraAgent,20,3,0,20,0.010693073272705078,5
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,AStarAgent,20,4,2,20,0.0008471012115478516,1
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,AStarAgent,20,4,2,20,0.0008339881896972656,2
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,AStarAgent,20,4,2,20,0.0007479190826416016,3
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,AStarAgent,20,4,2,20,0.0008842945098876953,4
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,AStarAgent,20,4,2,20,0.0008351802825927734,5
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,QLearningAgent,20,0,0,20,0.000225067138671875,1
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,QLearningAgent,20,0,0,20,0.00019311904907226562,2
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,QLearningAgent,20,0,0,20,0.00019502639770507812,3
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,QLearningAgent,20,0,0,20,0.00019693374633789062,4
+Scenario_9,14x14 Maze-Like Dynamic,14x14 bigger dynamic labyrinth with multiple survivors/resources,True,QLearningAgent,20,0,0,20,0.00019216537475585938,5
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,DijkstraAgent,20,3,1,20,0.0029659271240234375,1
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,DijkstraAgent,20,3,1,20,0.0028247833251953125,2
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,DijkstraAgent,20,3,1,20,0.0027191638946533203,3
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,DijkstraAgent,20,3,1,20,0.002803325653076172,4
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,DijkstraAgent,20,3,1,20,0.0028426647186279297,5
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,AStarAgent,20,0,7,20,0.0004239082336425781,1
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,AStarAgent,20,0,7,20,0.00040793418884277344,2
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,AStarAgent,20,0,7,20,0.00034499168395996094,3
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,AStarAgent,20,0,7,20,0.00037789344787597656,4
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,AStarAgent,20,0,7,20,0.0004000663757324219,5
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,QLearningAgent,20,1,0,20,0.0002460479736328125,1
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,QLearningAgent,20,1,0,20,0.0003070831298828125,2
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,QLearningAgent,20,1,0,20,0.00017881393432617188,3
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,QLearningAgent,20,1,0,20,0.00029087066650390625,4
+Scenario_10,8x8 Resource Overload Dynamic,"8x8 small grid with many resources, frequent dynamic changes",True,QLearningAgent,20,1,0,20,0.00023221969604492188,5
